@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello,branch2
+=======
+hello,branch1 updated
+>>>>>>> 5669adc... second,branch1
